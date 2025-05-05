@@ -31,9 +31,9 @@ A simple yet powerful Java Swing application that automatically organizes your f
 > - Progress bar
 > - Scrollable log area
 
-![alt text](output-img/image.png)
-![alt text](output-img/image-1.png)
-![alt text](output-img/image-2.png)
+<img src="output-img/image.png" alt="Preview 1" width="400"/>
+<img src="output-img/image-1.png" alt="Preview 2" width="400"/>
+<img src="output-img/image-2.png" alt="Preview 3" width="400"/>
 ---
 
 ## 🚀 Getting Started

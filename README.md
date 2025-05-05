@@ -31,9 +31,9 @@ A simple yet powerful Java Swing application that automatically organizes your f
 > - Progress bar
 > - Scrollable log area
 
-![alt text](ordrly/proj/output-img/image.png)
-![alt text](ordrly/proj/output-img/image-1.png)
-![alt text](ordrly/proj/output-img/image-2.png)
+![alt text](output-img/image.png)
+![alt text](output-img/image-1.png)
+![alt text](output-img/image-2.png)
 ---
 
 ## 🚀 Getting Started
@@ -47,7 +47,7 @@ A simple yet powerful Java Swing application that automatically organizes your f
 1. **Clone or Download the Repository**
 
     ```bash
-    git clone https://github.com/your-username/SmartFileOrganizer.git
+    git clone https://github.com/username/SmartFileOrganizer.git
     cd SmartFileOrganizer
     ```
 

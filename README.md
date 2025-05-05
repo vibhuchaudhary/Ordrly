@@ -2,7 +2,6 @@
 
 A simple yet powerful Java Swing application that automatically organizes your files into categorized folders based on their file types. Perfect for keeping your download folders or project directories clean and manageable.
 
----
 
 ## ✨ Features
 
@@ -21,7 +20,6 @@ A simple yet powerful Java Swing application that automatically organizes your f
 - 📝 Real-time activity log of actions performed.
 - 🎨 Clean and user-friendly GUI (with emoji support if available).
 
----
 
 ## 📷 Preview
 
@@ -62,7 +60,6 @@ A simple yet powerful Java Swing application that automatically organizes your f
     java SmartFileOrganizer
     ```
 
----
 
 ## 📁 File Organization Logic
 
@@ -83,7 +80,6 @@ Files are sorted into subfolders inside the selected directory based on extensio
 | BinFiles             | bin, dat                                     |
 | Others               | Any other file types                         |
 
----
 
 ## 🧑‍💻 Developer Info
 
@@ -91,7 +87,6 @@ Files are sorted into subfolders inside the selected directory based on extensio
 - **Paradigm**: Object-Oriented, Event-Driven
 - **Threading**: Uses `SwingWorker` to keep UI responsive
 
----
 
 ## 🛠️ Future Improvements
 
@@ -99,5 +94,3 @@ Files are sorted into subfolders inside the selected directory based on extensio
 - Custom categories support
 - Undo functionality
 - Dark mode theme
-
----
